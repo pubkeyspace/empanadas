@@ -11,5 +11,8 @@
 * vegetarian
 
 ## Devin
+* chorizo
+* vegetarian
+* chicken
 
 ## Martin
