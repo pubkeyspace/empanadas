@@ -1,16 +1,15 @@
 # empanadas 🥟
 
-= James
+## James
+* chorizo 
+* chicken
+* chicken
 
-chorizo 
-chicken
-chicken
+## Tim
+* grilled veggies
+* vegan
+* vegetarian
 
-= Tim
-grilled veggies
-vegan
-vegetarian
+## Devin
 
-= Devin
-
-= Martin
+## Martin
