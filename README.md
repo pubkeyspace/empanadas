@@ -8,5 +8,5 @@
 | Grilled V.   |         |         | x       |         |
 | Vegan        |         |         | x       |         |
 | ------------ | ------- | ------- | ------- | ------- |
-| Chimmichurri | x       | x       | x       | x       |
+| Chimmichurri | x       |         | x       | x       |
 | Habanero     | x       | x       | x       | x       |
