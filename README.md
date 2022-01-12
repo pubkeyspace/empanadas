@@ -1,26 +1,12 @@
 # empanadas 🥟
 
-## James
-* chorizo 
-* chicken
-* chicken
-
-## Tim
-* grilled veggies
-* vegan
-* vegetarian
-
-## Devin
-* chorizo
-* vegetarian
-* chicken
-
-## Martin
-* Pollo
-* Pollo
-* Chorizo
-
-## Sauces
-
-4x Chimichurri
-4x Orange habanero salsa
+|              | James   | Devin   | Tim     | Martin  |
+| :----------- | :------ | :------ | :------ | :------ |
+| Chicken      | xx      | x       |         | xx      |
+| Chorizo      | x       | x       |         | x       |
+| Vegetarian   |         | x       | x       |         |
+| Grilled V.   |         |         | x       |         |
+| Vegan        |         |         | x       |         |
+| ------------ | ------- | ------- | ------- | ------- |
+| Chimmichurri | x       | x       | x       | x       |
+| Habanero     | x       | x       | x       | x       |
