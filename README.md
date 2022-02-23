@@ -3,8 +3,8 @@
 |                 | James | Devin | Tim | Martin | Paul | Mike |Axel|
 | :-------------- | :---- | :---- | :-- | :----- | :--- | :--- |:---|
 | Carne           |       |       |     |        |      |      | x  |
-| Chicken         | x     | x     |     | xx     |      | xx   |    |
-| Chorizo         | xx    | x     |     | x      |      |      |    |
+| Chicken         | xx    | x     |     | xx     |      | xx   |    |
+| Chorizo         | x     | x     |     | x      |      |      |    |
 | Vegetarian      |       | x     | x   |        |      | x    |    |
 | Grilled V.      |       |       | x   |        | x    |      |    |
 | Vegan           |       |       | x   |        | x    |      |    |
