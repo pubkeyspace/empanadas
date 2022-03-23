@@ -6,7 +6,7 @@
 | Chicken         | xx    | x     |     | xx     |      | xx   |    |
 | Chorizo         | x     | x     |     | x      |      |      |    |
 | Vegetarian      |       | x     | x   |        |      | x    |    |
-| Grilled V.      |       |       | x   |        | x    |      |    |
+| Grilled V.      |       |       | x   |        | x    |      | x  |
 | Vegan           |       |       | x   |        | x    |      |    |
 | Caprese         |       |       |     |        | x    |      | x  |
 | --------------- |       |       |     |        |      |      |    |
