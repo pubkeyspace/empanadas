@@ -6,14 +6,14 @@ em·pa·na·das
 | :-------------- | :---- | :---- | :-- | :----- | :--- | :--- | :--- | :------ |
 | Carne (Beef)    |       |       |     |        |      |      |      | x       |
 | Chicken         | xx    |       |     | xx     |      | xx   | x    |         |
-| Chorizo         | x     | x     |     | x      |      |      | x    | x       |
+| Chorizo         | x     | x     |     | x      |      |      |      | x       |
 | Vegetarian      |       | x     | x   |        |      | x    |      |         |
 | Grilled V.      |       |       | x   |        | x    |      | x    | x       |
 | Vegan           |       |       | x   |        | x    |      |      |         |
 | Caprese         |       |       |     |        | x    |      |      |         |
-| Monthly Special |       | x     |     |        |      |      |      |         |
+| Monthly Special |       | x     |     |        |      |      | x    |         |
 | --------------- |       |       |     |        |      |      |      |         |
-| Chimmichurri ** | x     |       | x   | x      | x    | x    |      | x       |
+| Chimmichurri ** | x     |       | x   | x      | x    | x    | x    | x       |
 | Habanero **     | x     | x     | x   | x      | x    |      |      | x       |
 
 ** sauce
