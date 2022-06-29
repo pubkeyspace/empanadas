@@ -4,13 +4,13 @@ em·pa·na·das
 
 |                 | James | Devin | Tim | Martin | Paul | Norb | Axel | Iulia   |
 | :-------------- | :---- | :---- | :-- | :----- | :--- | :--- | :--- | :------ |
-| Carne (Beef)    |       |       |     |        |      | x    |      |         |
-| Chicken         | xx    |       |     | xx     |      |      | x    |         |
+| Carne (Beef)    |       |       |     |        |      | x    | x    |         |
+| Chicken         | xx    |       |     | xx     |      |      |      |         |
 | Chorizo         | x     | x     |     | x      |      | x    |      |         |
 | Vegetarian      |       | x     | x   |        |      |      |      |         |
-| Grilled V.      |       |       | x   |        | x    | x    | x    | x       |
+| Grilled V.      |       |       | x   |        | x    | x    |      | x       |
 | Vegan           |       |       | x   |        | x    |      |      | xx      |
-| Caprese         |       |       |     |        | x    |      |      |         |
+| Caprese         |       |       |     |        | x    |      | x    |         |
 | Monthly Special |       | x     |     |        |      |      | x    |         |
 | --------------- |       |       |     |        |      |      |      |         |
 | Chimmichurri ** | x     |       | x   | x      | x    | x    | x    |         |
