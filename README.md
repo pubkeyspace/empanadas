@@ -6,7 +6,7 @@ em·pa·na·das
 | :-------------- | :---- | :---- | :-- | :----- | :--- | :------ | :--- | :------ | :----- |
 | Carne (Beef)    |       |       |     |        |      |         | x    |         | x      |
 | Chicken         | xx    |       |     | xx     |      |         |      |         | x      |
-| Chorizo         |       | x     |     | x      |      | x       |      |         |        |
+| Chorizo         | x     | x     |     | x      |      | x       |      |         |        |
 | Vegetarian      |       | x     | x   |        |      | x       |      |         |        |
 | Grilled V.      |       |       | x   |        | x    | x       |      | x       | x      |
 | Vegan           |       |       | x   |        | x    |         |      | xx      |        |
