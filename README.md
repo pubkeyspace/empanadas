@@ -5,8 +5,8 @@ em·pa·na·das
 |                 | James | Devin | Tim | Martin | Paul | Norbert | Axel | Iulia   | Marcel | Thijs  | Travis
 | :-------------- | :---- | :---- | :-- | :----- | :--- | :------ | :--- | :------ | :----- | :----- | :----- |
 | Carne (Beef)    |       |       |     |        |      |         | x    |         | x      |        |        |
-| Chicken         | xx    |       |     | xx     |      |         |      |         | x      |        |        |
-| Chorizo         | x     | x     |     | x      |      | x       |      |         |        | x      |        |
+| Chicken         | xx    |       |     | xx     |      | x       |      |         | x      |        |        |
+| Chorizo         | x     | x     |     | x      |      |         |      |         |        | x      |        |
 | Vegetarian      |       | x     | x   |        |      | x       |      |         |        |        |        |
 | Grilled V.      |       |       | x   |        | x    | x       |      | x       | x      | x      |        |
 | Vegan           |       |       | x   |        | x    |         |      | xx      |        |        |        |
