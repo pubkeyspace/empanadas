@@ -14,7 +14,7 @@ em·pa·na·das
 | Monthly Special |       | x     |     |        |      |         | x    |         |        | x      |        |
 | --------------- |       |       |     |        |      |         |      |         |        |        |        |
 | Chimmichurri ** | x     |       | x   | x      | x    | x       | x    |         | x      | x      |        | xx
-| Habanero **     | x     | x     |     | x      | x    | x       |      | x       |        |        | x      |
+| Habanero **     | x     | x     | x   | x      | x    | x       |      | x       |        |        | x      |
 
 ** sauce
 
