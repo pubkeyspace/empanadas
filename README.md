@@ -13,7 +13,7 @@ em·pa·na·das
 | Caprese         |       |       |     |        | x    |         | x    |         |        |        | xx     |
 | Monthly Special |       | x     |     |        |      |         | x    |         |        | x      |        |
 | --------------- |       |       |     |        |      |         |      |         |        |        |        |
-| Chimmichurri ** | x     |       | x   | x      | x    | x       | x    |         | x      | x      |        | xx
+| Chimmichurri ** | x     |       |     | x      | x    | x       | x    |         | x      | x      |        | xx
 | Habanero **     | x     | x     | x   | x      | x    | x       |      | x       |        |        | x      |
 
 ** sauce
