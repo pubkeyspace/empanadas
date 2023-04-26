@@ -5,14 +5,15 @@ em·pa·na·das
 
 |                   | James | Devin | Tim | Martin | Paul | Norbert | Axel | Iulia | Marcel | Thijs | Travis | Egbert | Emile |
 | :---------------- | :---- | :---- | :-- | :----- | :--- | :------ | :--- | :---- | :----- | :---- | :----- | :----- | :---- |
-| Carne (Beef)      |       |       |     |        |      |         | x    |       | x      |       |        |        |       |
-| Chicken           | xx    |       |     | xx     |      | x       |      |       | x      |       |        |        |       |
+| Carne (Beef)      |       |       |     |        |      |         |      |       | x      |       |        |        |       |
+| Chicken           | xx    |       |     | xx     |      | x       | x    |       | x      |       |        |        |       |
 | Chorizo           | x     | x     |     | x      |      |         |      |       |        | x     |        |        |       |
 | Vegetarian        |       | x     | x   |        |      | x       |      |       |        |       |        | x      | x     |
 | Grilled V.        |       |       | x   |        | x    | x       |      | x     | x      | x     |        |        |       |
 | Vegan             |       |       | x   |        | x    |         |      | xx    |        |       |        | x      |       |
-| Caprese           |       |       |     |        | x    |         | x    |       |        |       | xx     | x      |       |
+| Caprese           |       |       |     |        | x    |         |      |       |        |       | xx     | x      |       |
 | Monthly Special   |       | x     |     |        |      |         | x    |       |        | x     |        |        | x     |
+| Pulled pork sw    |       |       |     |        |      |         | x    |       |        |       |        |        |       |
 | ---------------   |       |       |     |        |      |         |      |       |        |       |        |        |       |
 | Chimmichurri \*\* | x     |       |     | x      | x    | x       | x    |       | x      | x     |        | xx     | x     |
 | Habanero \*\*     | x     | x     | x   | x      | x    | x       |      | x     |        |       | x      |        | x     |
