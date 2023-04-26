@@ -13,7 +13,7 @@ em·pa·na·das
 | Vegan             |       |       | x   |        | x    |         |      | xx    |        |       |        | x      |       |
 | Caprese           |       |       |     |        | x    |         |      |       |        |       | xx     | x      |       |
 | Monthly Special   |       | x     |     |        |      |         | x    |       |        | x     |        |        | x     |
-| Pulled pork sw    |       |       |     |        |      |         | x    |       |        |       |        |        |       |
+| Pulled pork sandwich |       |       |     |        |      |         | x    |       |        |       |        |        |       |
 | ---------------   |       |       |     |        |      |         |      |       |        |       |        |        |       |
 | Chimmichurri \*\* | x     |       |     | x      | x    | x       | x    |       | x      | x     |        | xx     | x     |
 | Habanero \*\*     | x     | x     | x   | x      | x    | x       |      | x     |        |       | x      |        | x     |
