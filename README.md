@@ -6,7 +6,7 @@ em·pa·na·das
 |                      | James | Devin | Tim | Martin | Paul | Norbert | Axel | Iulia | Marcel | Thijs | Travis | Egbert | Emile | Javier |
 | :----------------    | :---- | :---- | :-- | :----- | :--- | :------ | :--- | :---- | :----- | :---- | :----- | :----- | :---- | :----- |
 | Carne (Beef)         |       |       |     |        |      |         |      |       | x      |       |        |        |       | x      |
-| Tuna                 | xx    |       |     |        |      |         |      |       | x      |       |        |        |       | x      |
+| Tuna                 | xx    |       |     |        |      |         |      |       |        |       |        |        |       |        |
 | Chicken              |       |       |     | xx     |      | x       | x    |       | x      |       |        |        |       |        |
 | Chorizo              |       | x     |     | x      |      |         |      |       |        | x     |        |        |       |        |
 | Vegetarian           |       | x     | x   |        |      | x       |      |       |        |       |        | x      | x     |        |
