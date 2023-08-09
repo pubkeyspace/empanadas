@@ -3,20 +3,21 @@
 em·pa·na·das
 : turnovers with a sweet or savory filling
 
-|                   | James | Devin | Tim | Martin | Paul | Norbert | Axel | Iulia | Marcel | Thijs | Travis | Egbert | Emile |
-| :---------------- | :---- | :---- | :-- | :----- | :--- | :------ | :--- | :---- | :----- | :---- | :----- | :----- | :---- |
-| Carne (Beef)      |       |       |     |        |      |         |      |       | x      |       |        |        |       |
-| Chicken           | xx    |       |     | xx     |      | x       | x    |       | x      |       |        |        |       |
-| Chorizo           | x     | x     |     | x      |      |         |      |       |        | x     |        |        |       |
-| Vegetarian        |       | x     | x   |        |      | x       |      |       |        |       |        | x      | x     |
-| Grilled V.        |       |       | x   |        | x    | x       | x    | x     | x      | x     |        |        |       |
-| Vegan             |       |       | x   |        | x    |         |      | xx    |        |       |        | x      |       |
-| Caprese           |       |       |     |        | x    |         |      |       |        |       | xx     | x      |       |
-| Monthly Special   |       | x     |     |        |      |         |      |       |        | x     |        |        | x     |
-| Pulled pork sandwich |       |       |     |        |      |         |      |       |        |       |        |        |       |
-| ---------------   |       |       |     |        |      |         |      |       |        |       |        |        |       |
-| Chimmichurri \*\* | x     |       |     | x      | x    | x       | x    |       | x      | x     |        | xx     | x     |
-| Habanero \*\*     | x     | x     | x   | x      | x    | x       |      | x     |        |       | x      |        | x     |
+|                   | James | Devin | Tim | Martin | Paul | Norbert | Axel | Iulia | Marcel | Thijs | Travis | Egbert | Emile | Javier |
+| :---------------- | :---- | :---- | :-- | :----- | :--- | :------ | :--- | :---- | :----- | :---- | :----- | :----- | :---- | :----- |
+| Carne (Beef)      |       |       |     |        |      |         |      |       | x      |       |        |        |       | x      |
+| Chicken           | xx    |       |     | xx     |      | x       | x    |       | x      |       |        |        |       |        |
+| Chorizo           | x     | x     |     | x      |      |         |      |       |        | x     |        |        |       |        |
+| Vegetarian        |       | x     | x   |        |      | x       |      |       |        |       |        | x      | x     |        |
+| Grilled V.        |       |       | x   |        | x    | x       | x    | x     | x      | x     |        |        |       |        |
+| Vegan             |       |       | x   |        | x    |         |      | xx    |        |       |        | x      |       |        |
+| Caprese           |       |       |     |        | x    |         |      |       |        |       | xx     | x      |       |       |
+| Monthly Special   |       | x     |     |        |      |         |      |       |        | x     |        |        | x     |        |
+| Pulled pork sandwich |       |       |     |        |      |         |      |       |        |       |        |        |       |       |
+| Ham & Cheese      |       |       |     |        |      |         |      |       |        |       |        |        |       | x      |
+| ---------------   |       |       |     |        |      |         |      |       |        |       |        |        |       |       |
+| Chimmichurri \*\* | x     |       |     | x      | x    | x       | x    |       | x      | x     |        | xx     | x     |       |
+| Habanero \*\*     | x     | x     | x   | x      | x    | x       |      | x     |        |       | x      |        | x     |       |
 
 \*\* sauce
 
