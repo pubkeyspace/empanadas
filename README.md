@@ -5,17 +5,17 @@ em·pa·na·das
 
 |                      | James | Devin | Tim | Martin | Paul | Norbert | Axel | Iulia | Marcel | Thijs | Travis | Egbert | Emile | Javier |
 | :----------------    | :---- | :---- | :-- | :----- | :--- | :------ | :--- | :---- | :----- | :---- | :----- | :----- | :---- | :----- |
-| Carne (Beef)         |       |       |     |        |      |         |      |       | x      |       |        |        |       | x      |
+| Carne (Beef)         |       |       |     |        |      |         |      |       | x      |       |        |        |       |        |
 | Tuna                 | xx    |       |     |        |      |         |      |       |        |       |        |        |       |        |
 | Chicken              |       |       |     | xx     |      | x       | x    |       | x      |       |        |        |       |        |
-| Chorizo              |       | x     |     | x      |      |         |      |       |        | x     |        |        |       |        |
+| Chorizo              |       | x     |     | x      |      |         |      |       |        | x     |        |        |       | x      |
 | Vegetarian           |       | x     | x   |        |      | x       |      |       |        |       |        | x      | x     |        |
 | Grilled V.           |       |       | x   |        | x    | x       | x    | x     | x      | x     |        |        |       |        |
 | Vegan                | x     |       | x   |        | x    |         |      | xx    |        |       |        | x      |       |        |
 | Caprese              |       |       |     |        | x    |         |      |       |        |       | xx     | x      |       |        |
-| Monthly Special      |       | x     |     |        |      |         |      |       |        | x     |        |        | x     |        |
+| Monthly Special      |       | x     |     |        |      |         |      |       |        | x     |        |        | x     | x      |
 | Pulled pork sandwich |       |       |     |        |      |         |      |       |        |       |        |        |       |        |
-| Ham & Cheese         |       |       |     |        |      |         |      |       |        |       |        |        |       | x      |
+| Ham & Cheese         |       |       |     |        |      |         |      |       |        |       |        |        |       |        |
 | ---------------      |       |       |     |        |      |         |      |       |        |       |        |        |       |        |
 | Chimmichurri \*\*    | x     |       |     | x      | x    | x       | x    |       | x      | x     |        | xx     | x     |        |
 | Habanero \*\*        | x     | x     | x   | x      | x    | x       |      | x     |        |       | x      |        | x     |        |
