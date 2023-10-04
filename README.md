@@ -12,10 +12,10 @@ em·pa·na·das
 | Vegetarian           |       | x     | x   |        |      | x       |      |       |        |       |        | x      | x     |        | x    |
 | Grilled V.           |       |       | x   |        | x    | x       | x    | x     | x      | x     |        |        |       |        |      |
 | Vegan                | x     |       | x   |        | x    |         |      | xx    |        |       |        | x      |       |        | x    |
-| Caprese              |       |       |     |        | x    |         |      |       |        |       | xx     | x      |       | x      |      |
+| Caprese              |       |       |     |        | x    |         |      |       |        |       | xx     | x      |       |        |      |
 | Monthly Special      |       | x     |     |        |      |         |      |       |        | x     |        |        | x     |        |      |
 | Pulled pork sandwich |       |       |     |        |      |         |      |       |        |       |        |        |       |        |      |
-| Ham & Cheese         |       |       |     |        |      |         |      |       |        |       |        |        |       |        |      |
+| Ham & Cheese         |       |       |     |        |      |         |      |       |        |       |        |        |       | x      |      |
 | ---------------      |       |       |     |        |      |         |      |       |        |       |        |        |       |        |      |
 | Chimmichurri \*\*    | x     |       |     | x      | x    | x       | x    |       | x      | x     |        | xx     | x     |        | x    |
 | Habanero \*\*        | x     | x     | x   | x      | x    | x       |      | x     |        |       | x      |        | x     |        |      |
