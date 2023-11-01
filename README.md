@@ -33,18 +33,26 @@ https://www.mercadouno-amsterdam.nl
     Array.from(document.querySelectorAll('th')).slice(1).forEach(th => {
       th.innerHTML = `<label><input type='checkbox'>${th.textContent}</label>`;
       th.querySelector('input').addEventListener('change', () => {
-        document.querySelector('p').innerHTML = (Array.from(document.querySelectorAll("th :checked")).map(checkbox => {
-          return Array.from(document.querySelectorAll('table :first-child th')).indexOf(checkbox.closest("th"))
-        }).reduce((rows, index) => {
-          return rows.map(row => {
-            row[1] = row[1] + (row[0].querySelectorAll('td').item(index).textContent.trim() || '')
-            return row
-          })
-        }, Array.from(document.querySelectorAll('tr')).slice(1).map(tr => [tr, ''])
-        )
-          .filter(counts => counts[1].length > 0)
-          .map(counts => `${counts[0].querySelector('td').textContent}: ${counts[1].length}`)
-          .join("<br />"))
+        document.querySelector('p').innerHTML = (() => {
+          const totals = Array.from(document.querySelectorAll("th :checked")).map(checkbox => {
+            return Array.from(document.querySelectorAll('table :first-child th')).indexOf(checkbox.closest("th"))
+          }).reduce((rows, index) => {
+            return rows.map(row => {
+              row[1] = row[1] + (row[0].querySelectorAll('td').item(index).textContent.trim() || '')
+              return row
+            })
+          }, Array.from(document.querySelectorAll('tr')).slice(1).map(tr => [tr, ''])
+          )
+            .filter(counts => counts[1].length > 0)
+
+          return [
+            totals
+              .map(counts => `${counts[0].querySelector('td').textContent}: ${counts[1].length}`),
+            ("<br>Total: " + totals
+              .filter(counts => !counts[0].querySelector('td').textContent.match(/\*\*/))
+              .reduce((total, counts) => total + counts[1].length, 0))
+          ].flat().join('<br>')
+        })()
       })
     })
   </script>
