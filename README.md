@@ -32,9 +32,9 @@ https://www.mercadouno-amsterdam.nl
   <script>
 
     const totalText = (totals) => (
-      "<br>Total: " + totals
+      "<tr><td>" + totals
         .filter(counts => !counts.productName.includes('**'))
-        .reduce((total, item) => total + item.total, 0)
+        .reduce((total, item) => total + item.total, 0) + "</td><td>Total</td></tr>"
     )
 
     const lineItemsFromRow = row => ({
@@ -44,7 +44,7 @@ https://www.mercadouno-amsterdam.nl
 
     const productRows = () => (
       Array
-        .from(document.querySelectorAll('tr'))
+        .from(document.querySelectorAll('table:not(#totals) tr'))
         .slice(1)
         .map(tr => ({ tr, allCharacters: '' }))
     )
@@ -59,12 +59,12 @@ https://www.mercadouno-amsterdam.nl
 
     const inputIndex = (checkbox) => (
       Array
-        .from(document.querySelectorAll('table :first-child th'))
+        .from(document.querySelectorAll('table:not(#totals) :first-child th'))
         .indexOf(checkbox.closest("th"))
     )
 
     const checkedInputs = () => (
-      Array.from(document.querySelectorAll("th :checked"))
+      Array.from(document.querySelectorAll("table:not(#totals) th :checked"))
     )
 
     const lineItemTotals = () => (
@@ -80,11 +80,14 @@ https://www.mercadouno-amsterdam.nl
     const updateText = () => {
        paragraph().innerHTML = (() => {
         const totals = lineItemTotals()
-        return [
+        return '<table id="totals">' + [
           totals
-            .map(counts => `${counts.productName}: ${counts.total}`),
+            .map(counts => `<tr>
+              <td>${counts.total}</td>
+              <td>${counts.productName}</td>
+            </tr>`),
           totalText(totals)
-        ].flat().join('<br>')
+        ].flat().join('') + '</table>'
       })()
     }
 
@@ -97,7 +100,7 @@ https://www.mercadouno-amsterdam.nl
     }
 
     const preferenceHeaders = () => (
-      Array.from(document.querySelectorAll('th')).slice(1)
+      Array.from(document.querySelectorAll(':not(#totals) th')).slice(1)
     )
 
     preferenceHeaders().forEach(addInputToTh)
