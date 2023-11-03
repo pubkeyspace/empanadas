@@ -30,30 +30,77 @@ https://www.mercadouno-amsterdam.nl
 <details> 
 <summary>Calculator Script</summary>
   <script>
-    Array.from(document.querySelectorAll('th')).slice(1).forEach(th => {
-      th.innerHTML = `<label><input type='checkbox'>${th.textContent}</label>`;
-      th.querySelector('input').addEventListener('change', () => {
-        document.querySelector('p').innerHTML = (() => {
-          const totals = Array.from(document.querySelectorAll("th :checked")).map(checkbox => {
-            return Array.from(document.querySelectorAll('table :first-child th')).indexOf(checkbox.closest("th"))
-          }).reduce((rows, index) => {
-            return rows.map(row => {
-              row[1] = row[1] + (row[0].querySelectorAll('td').item(index).textContent.trim() || '')
-              return row
-            })
-          }, Array.from(document.querySelectorAll('tr')).slice(1).map(tr => [tr, ''])
-          )
-            .filter(counts => counts[1].length > 0)
 
-          return [
-            totals
-              .map(counts => `${counts[0].querySelector('td').textContent}: ${counts[1].length}`),
-            ("<br>Total: " + totals
-              .filter(counts => !counts[0].querySelector('td').textContent.match(/\*\*/))
-              .reduce((total, counts) => total + counts[1].length, 0))
-          ].flat().join('<br>')
-        })()
-      })
+    const totalText = (totals) => (
+      "<br>Total: " + totals
+        .filter(counts => !counts.productName.includes('**'))
+        .reduce((total, item) => total + item.total, 0)
+    )
+
+    const lineItemsFromRow = row => ({
+      productName: row.tr.cells[0].textContent,
+      total: row.allCharacters.length
     })
+
+    const productRows = () => (
+      Array
+        .from(document.querySelectorAll('tr'))
+        .slice(1)
+        .map(tr => ({ tr, allCharacters: '' }))
+    )
+
+    const rowTotals = (rows, index) => (
+      rows.map(row => (
+        row.allCharacters += (
+          row.tr.cells[index].textContent.trim() || ''
+        )
+      )) && rows
+    )
+
+    const inputIndex = (checkbox) => (
+      Array
+        .from(document.querySelectorAll('table :first-child th'))
+        .indexOf(checkbox.closest("th"))
+    )
+
+    const checkedInputs = () => (
+      Array.from(document.querySelectorAll("th :checked"))
+    )
+
+    const lineItemTotals = () => (
+      checkedInputs()
+        .map(inputIndex)
+        .reduce(rowTotals, productRows())
+        .map(lineItemsFromRow)
+        .filter(item => item.total > 0)
+    )
+
+    const paragraph = () => document.querySelector('p')
+
+    const updateText = () => {
+       paragraph().innerHTML = (() => {
+        const totals = lineItemTotals()
+        return [
+          totals
+            .map(counts => `${counts.productName}: ${counts.total}`),
+          totalText(totals)
+        ].flat().join('<br>')
+      })()
+    }
+
+    const addInputToTh = th => {
+      th.innerHTML =
+        `<label><input type='checkbox'>${th.textContent}</label>`;
+      th
+        .querySelector('input')
+        .addEventListener('change', updateText)
+    }
+
+    const preferenceHeaders = () => (
+      Array.from(document.querySelectorAll('th')).slice(1)
+    )
+
+    preferenceHeaders().forEach(addInputToTh)
+
   </script>
 </details>
