@@ -42,7 +42,7 @@ function row(l, r) {
 }
 
 for(let td of $$('td:first-child')) {
-    td.innerHTML = `<label><input type='checkbox'>${td.textContent}</label>`;
+    td.innerHTML = `<label><input type='checkbox'> ${td.textContent}</label>`;
     $('input', td).addEventListener('change', updateText)
 }
 
