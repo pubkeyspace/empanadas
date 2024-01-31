@@ -25,13 +25,14 @@ em·pa·na·das
 | Farhood  |       |       | ✪✪  |        | ✪    |        |      |       |        |       |        |
 | Joost    |       |       | ✪✪  |        |      |        | ✪    |       |        |       |        |
 
-\*\* sauce
+(sauce is not mentioned to save horizontal space)
     
 #### Ordering
 
 Totals:
 
 <table id=totals style="margin-left: 2em">
+    <tr><td>Computed automatically with the script at https://pubkeyspace.github.io/empanadas/</td></tr>
 </table>
 
 Mercado Uno:
@@ -47,6 +48,8 @@ git clone -b v228 https://github.com/github/pages-gem
 docker build -t gh-pages --load -f Dockerfile.alpine pages-gem
 docker run -it --rm --net=host -v $PWD:/srv/site gh-pages
 ```
+
+The totaling script is at:
 
 <script src="./code.js">
 </script>
