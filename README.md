@@ -1,5 +1,7 @@
 # empanadas 🥟
 
+[![pages-build-deployment](https://github.com/pubkeyspace/empanadas/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/pubkeyspace/empanadas/actions/workflows/pages/pages-build-deployment)
+
 em·pa·na·das
 : turnovers with a sweet or savory filling
 
