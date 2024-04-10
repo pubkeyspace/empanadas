@@ -5,10 +5,10 @@
 em·pa·na·das
 : turnovers with a sweet or savory filling
 
-|          | Carne | Tuna  | Kip | Chorizo| Vegi | Gril V.| Vegan|Caprese| Mon.Sp.|Pork.Sa|Ham&Che |
+|          | Carne | Tuna  | Kip | Chorizo| Vega | Gril V.| Vegan|Caprese| Mon.Sp.|Pork.Sa|Ham&Che |
 | :------  | :---- | :---- | :-- | :----- | :--- | :----- | :--- | :---- | :----- | :---- | :----- |
 | James    |       | ✪✪    |     |        |      |        | ✪    |       |        |       |        |
-| Devin    |       | ✪     |     | ✪      | ✪    |        |      |       |        |       |        |
+| Devin    |       | ✪     |     | ✪      |      |        |      |       | ✪       |       |        |
 | Tim      |       |       |     |        | ✪    | ✪      | ✪    |       |        |       |        |
 | Martin   |       |       | ✪✪  | ✪      |      |        |      |       |        |       |        |
 | Paul     |       |       |     |        |      | ✪      | ✪    | ✪     |        |       |        |
