@@ -34,6 +34,9 @@ function updateText() {
 
 function row(l, r) {
     let tr = document.createElement('tr')
+    if(l == "Vega")
+        l = "Vegetarian (S)"
+    
     tr.innerHTML = `
         <td style="text-align: left">${l}</td>
         <td style="text-align: right">${r}</td>
