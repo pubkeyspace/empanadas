@@ -7,8 +7,8 @@ em·pa·na·das
 
 |          | Carne | Tuna  | Kip | Chorizo| Vega | Gril V.| Vegan|Caprese| Mon.Sp.|Pork.Sa|Ham&Che |
 | :------  | :---- | :---- | :-- | :----- | :--- | :----- | :--- | :---- | :----- | :---- | :----- |
-| James    |       | ✪✪    |     |        |      |        | ✪    |       |        |       |        |
-| Devin    |       | ✪     |     | ✪      |      |        |      |       | ✪       |       |        |
+| James    |       |       | ✪   | ✪      |      |        |      |       |        |       |        |
+| Devin    |       | ✪     |     | ✪      |      |        |      |       | ✪      |       |        |
 | Tim      |       |       |     |        | ✪    | ✪      | ✪    |       |        |       |        |
 | Martin   |       |       | ✪✪  | ✪      |      |        |      |       |        |       |        |
 | Paul     |       |       |     |        |      | ✪      | ✪    | ✪     |        |       |        |
